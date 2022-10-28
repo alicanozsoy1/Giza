@@ -3,4 +3,3 @@
 <h2>Screen gif</h2>
 
 ![](screen.gif)
-# Giza-website
